@@ -1,5 +1,5 @@
   <h1 align="center">Hi there I'm YongJim</h1>
-  <p align="center"> I'm a Designer / Full-Stack / Youtuber </p>
+  <p align="center"> I'm a Designer / Full-Stack / Programmer </p>
   <div align="center">
     <br />
     <br />
