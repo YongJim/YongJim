@@ -8,7 +8,7 @@
   
   ---
   
-  [![My Skills](https://skillicons.dev/icons?i=py,html,css,nodejs,js,discordjs,cs,cpp,windicss,arduino,bootstrap,dotnet,swift)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=py,html,css,nodejs,js,discordjs,cs,cpp,windicss,bootstrap,swift)](https://skillicons.dev)
   
   [![My Skills](https://skillicons.dev/icons?i=github,vscode,discord,bots,blender,ps,pr,ae,docker,figma,firebase)](https://skillicons.dev)
   
